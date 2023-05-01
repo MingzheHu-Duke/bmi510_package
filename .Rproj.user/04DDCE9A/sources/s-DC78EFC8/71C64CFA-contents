@@ -1,0 +1,12 @@
+Package: bmi510package
+Type: Package
+Title: BMI510 Final Project
+Version: 0.1.0
+Authors@R: person("Mingzhe", "Hu", email = "mingzhehu511@gmail.com", role = c("aut", "cre"))
+Description: This is a package for the BMI510 final project
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+Imports: 
+    pwr,
+    magrittr
